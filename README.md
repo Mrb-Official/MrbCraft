@@ -23,9 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="2.png" width="24%" alt="Preview 2"/>
-  <img src="1.png" width="48%" alt="Main Preview"/>
-  <img src="3.png" width="24%" alt="Preview 3"/>
+  <img src="1.png" width="24%" alt="Preview 3"/>
 </p>
 
 ---
