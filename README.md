@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="1.png" width="24%" alt="Preview 3"/>
+  <img src="1.png" width="100%" alt="Preview 3"/>
 </p>
 
 ---
