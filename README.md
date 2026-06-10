@@ -37,4 +37,3 @@ It comes pre-configured with various lightweight applications which makes it sup
 * **Stunning Openbox:** Pre-configured window manager with zero-bloat.
 * **Modern Panels:** Beautiful configuration with Plank and Polybar docks.
 * **Clean Display:** Includes the customized Desert-SDDM login manager.
-* 
